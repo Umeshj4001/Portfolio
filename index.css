@@ -1,0 +1,173 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family:'Times New Roman', Times, serif;
+   color: white;
+   background: black;
+ }
+ a {
+   text-decoration: none;
+   
+ }
+ 
+ul {
+    
+    margin: 0;
+    padding: 25px;
+    background-color:black;
+    
+  }
+  li {
+    display:inline;
+    color: rgb(252, 6, 6);
+  padding: inherit;
+    text-align: right;
+    
+  }
+  
+ nav{
+    text-align: right;
+  
+ }
+ nav ul li a {
+   color:rgb(252, 6, 6);
+   position: relative;
+   padding: 5px 11px;
+   text-align: right;
+   font-size: 18px;
+ }
+
+ .content{
+    padding: 80px;
+    background: url(/images/black-cool-dark-laptop-background-wallpaper-thumb.jpg);
+    background-size:contain;
+   
+ }
+
+ .Content2{
+    padding: 100px;
+    background-color:  white;
+
+ }
+
+ .Content3{
+   padding-top: 20px;
+   padding-left: 100px;
+   margin: 5px;
+ }
+
+
+  h1 {
+   color: #1f1f25;
+   font-size: 75px;
+   font-weight: 900;
+   line-height: 90px;
+   text-transform: inherit;
+   width: 70%;
+ }
+ span {
+   color: #122969;
+ }
+
+ #h3{
+   font-size: 30px;
+   font-family:'Times New Roman', Times, serif;
+   color: white;
+ }
+
+ h3{
+    font-style: normal;
+    font-size:35px;
+    opacity: 0.9;
+    margin: 0%;
+    color: white;
+ }
+ p {
+   width: 55%;
+   color:white;
+   margin-top: 25px;
+   margin-bottom: 30px;
+ }
+ h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:px;
+    color: white;
+ }
+ .list{
+    text-align:left;
+    color: white; 
+ }
+
+ .nav2{
+    text-align: center;
+    font-size: 55px;
+    padding: 10px;
+ 
+ }
+ .nav22{
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    text-align: center;
+ }
+ 
+ dd{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:white;
+   padding-left: 30px;
+ }
+ dt{
+   color: black;
+   font-size: 20px;
+ }
+
+ .title {
+   color: #0a0a0a;
+   font-size: 45px;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   display: inline-block;
+   margin-bottom: 20px;
+   background: linear-gradient(
+     120deg,
+     #1c99fe 20.69%,
+     #7644ff 50.19%,
+     #fd4766 79.69%
+   );
+   background-clip: border-box;
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+ }
+ .titleg {
+  color: #0a0a0a;
+  font-size: 45px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  display: inline-block;
+  margin-bottom: 20px;
+  background: linear-gradient(
+    120deg,
+    rgb(14, 73, 128) 20.69%,
+    rgb(14, 73, 128) 50.19%,
+    rgb(14, 73, 128) 79.69%
+  );
+  
+  -webkit-text-fill-color: transparent;
+}
+
+
+ .pd1 h1,dt{
+  font-size: 30px;
+   color: #7644ff;
+   padding-left: 50px;
+ }
+
+ .pd1 h2,dd{
+  font-size: 20px;
+  padding-left: 90px;
+ }
+  
+ .pd1 a{
+  padding-left: 90px;
+  font-size: 20px;
+ }
